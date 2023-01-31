@@ -1,0 +1,27 @@
+/*pseudo class*/
+.skill:hover{
+    color: #82AAE3;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    background-color: #EAFDFC;
+    border-color: gray;
+    border-width: 5px;
+    height: 2px;
+    width: 10%;
+}
+
+body{
+    /*https://colorhunt.co/palette/82aae391d8e4bfeaf5eafdfc*/
+    background-color:#EAFDFC;
+}
+
+h1{
+    color: #7868E6;
+}
+
+h3{
+    color: #82AAE3;
+}
